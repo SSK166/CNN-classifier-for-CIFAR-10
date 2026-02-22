@@ -4,7 +4,7 @@ Image classification on CIFAR-10 using a LightWeight Convolutional Neural Networ
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project implements a **lightweight CNN (~666K parameters)** which is both efficient and fast-performing. The implemented model is compared against standard ML models:
 
@@ -17,7 +17,7 @@ The results demonstrate the effectiveness of CNNs in learning spatial visual fea
 
 ---
 
-## 🧠 Model Summary
+## Model Summary
 
 * Input: 32×32 RGB images
 * 5 Convolution layers (3 blocks)
@@ -30,7 +30,7 @@ Designed for **speed, memory efficiency and efficient learning**.
 
 ---
 
-## 📊 Results
+## Results
 
 | Model                          | Test Accuracy |
 | ------------------------------ | ------------- |
@@ -44,7 +44,7 @@ Designed for **speed, memory efficiency and efficient learning**.
 
 ---
 
-## ⚡ Training Details
+## Training Details
 
 * Optimizer: Adam
 * Learning Rate: 0.001
@@ -55,7 +55,7 @@ Designed for **speed, memory efficiency and efficient learning**.
 
 ---
 
-## ⭐ Key Highlights
+## Key Highlights
 
 * Lightweight CNN with only ~666K parameters
 * 77.59% accuracy on CIFAR-10
@@ -65,7 +65,7 @@ Designed for **speed, memory efficiency and efficient learning**.
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 **Sree Krishna S**
 Sri Sivasubramaniya Nadar College of Engineering
@@ -75,7 +75,7 @@ Sri Sivasubramaniya Nadar College of Engineering
 
 ---
 
-## 📚 References
+## References
 
 * Krizhevsky, 2009 — CIFAR-10 Dataset
 * He et al., 2016 — ResNet
